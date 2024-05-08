@@ -1,5 +1,9 @@
 # Trabalho_individual/ Modulo_2
 
+# Imagem do diagrama:
+![image](https://github.com/BieldoJT/Trabalho_individual--modulo_2/assets/113216641/9d85630c-f47e-4b2a-baf2-1f5466c010c9)
+
+
 
 # Respondendo as perguntas:
 
@@ -32,7 +36,7 @@
        
    - **Tecnologia:**
      - id_tecnologia INT *PRIMARY KEY*
-     - id_areaTec int *FOREING KEY*
+     - id_areaTec INT *FOREING KEY*
      - nome_tecnologia VARCHAR
      - area_tecnologia VARCHAR
        
